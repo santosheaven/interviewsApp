@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.com">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+    <title>Status Interview</title>
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.css">
+
+</head>
+<body>
+
+<h1>Status Interview</h1>
+<table class="table">
+    <thead>
+    <tr>
+        <th scope="col">Id</th>
+        <th scope="col">Name</th>
+        <th scope="col">Date</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr th:each="statusInterview: ${statusInterviews}">
+        <td  scope="row" th:text="${statusInterview.id}">Id</td>
+        <td th:text="${statusInterview.name}">Name</td>
+        <td th:text="${statusInterview.date}">Date</td>
+    </tr>
+    </tbody>
+</table>
+
+</body>
+</html>

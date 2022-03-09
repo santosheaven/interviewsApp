@@ -1,0 +1,131 @@
+2022-03-08 19:21:53,088 INFO c.i.i.InterviewsApplication [main]
+Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 15108
+(E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:21:53,092 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:21:53,092 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:21:56,813 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.933 seconds (JVM running for 4.769)
+2022-03-08 19:21:56,876 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:24:08,406 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 1580 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:24:08,410 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:24:08,411 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:24:12,104 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.914 seconds (JVM running for 4.623)
+2022-03-08 19:24:12,170 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:25:51,758 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 22524 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:25:51,762 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:25:51,763 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:25:55,480 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.921 seconds (JVM running for 4.642)
+2022-03-08 19:25:55,546 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:27:26,283 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 12492 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:27:26,288 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:27:26,288 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:27:29,938 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.855 seconds (JVM running for 4.545)
+2022-03-08 19:27:46,887 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 13972 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:27:46,891 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:27:46,892 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:27:50,944 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 4.281 seconds (JVM running for 5.341)
+2022-03-08 19:28:23,069 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:29:19,210 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:29:56,373 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:30:23,342 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 21560 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:30:23,346 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:30:23,347 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:30:27,290 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 4.176 seconds (JVM running for 5.015)
+2022-03-08 19:30:31,567 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:30:35,809 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:30:43,563 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:32:10,505 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 9160 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:32:10,509 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:32:10,510 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:32:14,568 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 4.293 seconds (JVM running for 5.151)
+2022-03-08 19:32:19,308 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:32:21,928 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:32:50,806 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 9496 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:32:50,811 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:32:50,811 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:32:54,852 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 4.27 seconds (JVM running for 5.121)
+2022-03-08 19:33:21,478 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:33:27,332 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:43:46,327 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 9900 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:43:46,332 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:43:46,332 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:43:50,442 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 4.348 seconds (JVM running for 5.131)
+2022-03-08 19:43:54,236 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:43:59,488 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:45:25,222 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 7496 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:45:25,227 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:45:25,228 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:45:29,353 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 4.365 seconds (JVM running for 5.241)
+2022-03-08 19:45:33,665 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:45:36,065 ERROR o.h.e.j.s.SqlExceptionHelper [main] ORA-00942: la tabla o vista no existe
+
+2022-03-08 19:47:43,124 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 6644 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:47:43,129 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:47:43,129 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:47:45,927 ERROR o.s.o.j.LocalContainerEntityManagerFactoryBean [main] Failed to initialize JPA EntityManagerFactory: [PersistenceUnit: default] Unable to build Hibernate SessionFactory; nested exception is org.hibernate.MappingException: Could not instantiate id generator [entity-name=com.isantospro.interviews.data.StatusInterview]
+2022-03-08 19:49:05,402 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 21808 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 19:49:05,406 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 19:49:05,407 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 19:49:08,653 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.454 seconds (JVM running for 4.197)
+2022-03-08 19:49:08,732 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 20:41:10,333 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 12212 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 20:41:10,337 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 20:41:10,337 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 20:45:55,311 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 3412 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 20:45:55,315 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 20:45:55,315 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 20:46:51,518 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 11964 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 20:46:51,522 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 20:46:51,523 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 20:46:54,844 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.528 seconds (JVM running for 4.257)
+2022-03-08 20:46:54,918 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 20:59:02,254 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 10164 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 20:59:02,258 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 20:59:02,258 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 20:59:05,536 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.491 seconds (JVM running for 4.211)
+2022-03-08 20:59:05,613 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 21:01:01,170 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 18956 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 21:01:01,175 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 21:01:01,175 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 21:01:04,411 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.46 seconds (JVM running for 4.186)
+2022-03-08 21:01:04,487 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 21:04:11,948 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 10284 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 21:04:11,953 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 21:04:11,953 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 21:04:15,243 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.494 seconds (JVM running for 4.186)
+2022-03-08 21:04:15,316 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 21:06:48,598 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 22916 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 21:06:48,602 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 21:06:48,602 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 21:06:52,064 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.668 seconds (JVM running for 4.385)
+2022-03-08 21:06:52,243 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 21:08:20,010 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 8664 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 21:08:20,014 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 21:08:20,014 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 21:08:23,550 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.76 seconds (JVM running for 4.526)
+2022-03-08 21:08:23,640 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 21:13:37,661 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 18504 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 21:13:37,665 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 21:13:37,665 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 21:13:40,992 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.531 seconds (JVM running for 4.252)
+2022-03-08 21:13:41,074 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
+2022-03-08 21:14:59,313 INFO c.i.i.InterviewsApplication [main] Starting InterviewsApplication using Java 1.8.0_291 on DESKTOP-4TQPV7G with PID 2196 (E:\Projects\InterviewsApp\target\classes started by Israel in E:\Projects\InterviewsApp)
+2022-03-08 21:14:59,317 DEBUG c.i.i.InterviewsApplication [main] Running with Spring Boot v2.6.4, Spring v5.3.16
+2022-03-08 21:14:59,317 INFO c.i.i.InterviewsApplication [main] No active profile set, falling back to 1 default profile: "default"
+2022-03-08 21:15:02,606 INFO c.i.i.InterviewsApplication [main] Started InterviewsApplication in 3.506 seconds (JVM running for 4.251)
+2022-03-08 21:15:02,681 INFO c.i.i.u.AppStartupEvent [main] StatusInterview(id=1, name=Active, date=2022-03-08)
