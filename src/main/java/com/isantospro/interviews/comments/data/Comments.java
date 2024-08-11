@@ -1,6 +1,9 @@
-package com.isantospro.interviews.data;
+package com.isantospro.interviews.comments.data;
 
-import lombok.*;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
 
 import javax.persistence.*;
 
@@ -18,5 +21,7 @@ public class Comments {
     private Long id;
     @Column(name = "CI_COMMENTS")
     private String comment;
+    @Column(name = "PI_ID")
+    private Long piId;
 
 }

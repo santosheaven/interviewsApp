@@ -1,4 +1,4 @@
-package com.isantospro.interviews.data;
+package com.isantospro.interviews.candidate.data;
 
 import lombok.*;
 
@@ -12,10 +12,11 @@ import java.sql.Date;
 @NoArgsConstructor
 @AllArgsConstructor
 @ToString
+@Builder
 public class Candidate {
 
     @Id
-    @SequenceGenerator(name = "SQ_CANDIDATE", sequenceName = "CANDIDATE")
+    @SequenceGenerator(name = "CANDIDATE", sequenceName = "SQ_CANDIDATE")
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "CA_ID")
     @Column(name = "CA_ID")
     private Long id;

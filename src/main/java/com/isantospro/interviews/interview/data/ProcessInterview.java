@@ -1,4 +1,4 @@
-package com.isantospro.interviews.data;
+package com.isantospro.interviews.interview.data;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -16,20 +16,20 @@ import javax.persistence.*;
 public class ProcessInterview {
 
     @Id
-    @SequenceGenerator(name = "SQ_COMPANY", sequenceName = "COMPANY")
+    @SequenceGenerator(name = "PROCESS_INTERVIEW", sequenceName = "SQ_PROCESS_INTERVIEW")
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "PI_ID")
     @Column(name = "PI_ID")
     private Long id;
     @Column(name = "PI_POSITION")
     private String positionDescription;
     @Column(name = "CC_ID")
-    private String companyContactId;
+    private Long companyContactId;
     @Column(name = "PI_WHOCONTACT")
     private String whoContact;
     @Column(name = "PI_TODO")
     private String todoList;
     @Column(name = "SI_ID")
-    private String statusInterviewId;
+    private Long statusInterviewId;
     @Column(name = "CA_ID")
-    private String candidateId;
+    private Long candidateId;
 }

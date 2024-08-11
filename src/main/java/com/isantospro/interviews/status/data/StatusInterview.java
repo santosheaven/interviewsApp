@@ -17,7 +17,7 @@ import java.util.Objects;
 @Table(name="STATUS_INTERVIEW")
 public class StatusInterview implements Serializable {
     @Id
-    @SequenceGenerator(name = "SQ_STATUS_INTERVIEW", sequenceName = "STATUS_INTERVIEW")
+    @SequenceGenerator(name = "STATUS_INTERVIEW", sequenceName = "SQ_STATUS_INTERVIEW")
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "SI_ID")
     @Column(name = "SI_ID")
     private Long id;

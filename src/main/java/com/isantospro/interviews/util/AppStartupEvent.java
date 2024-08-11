@@ -1,6 +1,9 @@
 package com.isantospro.interviews.util;
 
-import com.isantospro.interviews.data.*;
+import com.isantospro.interviews.candidate.data.Candidate;
+import com.isantospro.interviews.candidate.data.CandidateRepository;
+import com.isantospro.interviews.comments.data.Comments;
+import com.isantospro.interviews.comments.data.CommentsRepository;
 import com.isantospro.interviews.status.data.StatusInterview;
 import com.isantospro.interviews.status.data.StatusInterviewRepository;
 import org.apache.logging.log4j.LogManager;

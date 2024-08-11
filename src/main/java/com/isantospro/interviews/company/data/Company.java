@@ -1,4 +1,4 @@
-package com.isantospro.interviews.data;
+package com.isantospro.interviews.company.data;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -16,7 +16,7 @@ import javax.persistence.*;
 public class Company {
 
     @Id
-    @SequenceGenerator(name = "SQ_COMPANY", sequenceName = "COMPANY")
+    @SequenceGenerator(name = "COMPANY", sequenceName = "SQ_COMPANY")
     @GeneratedValue(strategy = GenerationType.SEQUENCE, generator = "C_ID")
     @Column(name = "C_ID")
     private Long id;
